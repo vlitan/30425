@@ -13,9 +13,9 @@ We recommend you to finish the reading list and the given assignments in 1 week 
 
 
 ## Reading list
-1. [Inheritance](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Books%20%2B%20Material/OOP%20Lab/06-Inheritance.pdf)
+1. [Inheritance](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Books%20%2B%20Material/OOP%20Lab/06-Inheritance.pdf)
 2. [Head First Java - Chapters 7-9  (pdf pages 186-292)](http://it-ebooks.info/book/3214/)
 
 
-## [Assignments](https://github.com/OOP-30221/OOP-2016/tree/master/Java/Content/Chapter%202%20-%20Classes%20and%20Objects/Assignments)
-- 3.1 - [Zoo (part 1)](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%203%20-%20Inheritance%20and%20Polymorphism/Assignments/Zoo%20(part%201).pdf)
+## [Assignments](https://github.com/OOPCLASS2016/30425/tree/master/Resources/Content/Chapter%202%20-%20Classes%20and%20Objects/Assignments)
+- 3.1 - [Zoo (part 1)](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Content/Chapter%203%20-%20Inheritance%20and%20Polymorphism/Assignments/Zoo%20(part%201).pdf)

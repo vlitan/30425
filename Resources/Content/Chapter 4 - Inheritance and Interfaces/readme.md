@@ -13,7 +13,7 @@ We recommend you to finish the reading list and the given assignments in 1 week 
 
 
 ## Reading list
-1. [Interfaces](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Books%20%2B%20Material/OOP%20Lab/07-Interfaces.pdf)
+1. [Interfaces](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Books%20%2B%20Material/OOP%20Lab/07-Interfaces.pdf)
 2. [Head First Java - re-read chapter 8  (pdf pages 218-255)](http://it-ebooks.info/book/3214/)
 
 ## Play around with...
@@ -21,5 +21,5 @@ We recommend you to finish the reading list and the given assignments in 1 week 
 2. [More Interfaces/abstract classes questions](http://interview-questions-java.com/abstract-class-interface.htm)
 
 
-## [Assignments](https://github.com/OOP-30221/OOP-2016/tree/master/Java/Content/Chapter%204%20-%20Inheritance%20and%20Interfaces)
-- 4.1 - [Zoo (part 2)](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%204%20-%20Inheritance%20and%20Interfaces/Assignments/Zoo%20(part%202).pdf)
+## [Assignments](https://github.com/OOPCLASS2016/30425/tree/master/Resources/Content/Chapter%204%20-%20Inheritance%20and%20Interfaces)
+- 4.1 - [Zoo (part 2)](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Content/Chapter%204%20-%20Inheritance%20and%20Interfaces/Assignments/Zoo%20(part%202).pdf)

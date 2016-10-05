@@ -15,14 +15,14 @@ We recommend you to finish the reading list and the given assignments in 1 week 
 6. You may ask for any specific topic on the forum or Google/YouTube it yourself.
 
 ## Reading list
-1. [A simple class example (ch. 3.3) + exercises from this lab](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Books%20%2B%20Material/OOP%20Lab/04-FlowControl_SimpleClasses.pdf)
-1. [Classes, Objects, Arrays](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Books%20%2B%20Material/OOP%20Lab/05-Classes_Objects_Arrays.pdf) (Books + Material/OOP Lab/05-Classes_Objects_Arrays.pdf)
+1. [A simple class example (ch. 3.3) + exercises from this lab](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Books%20%2B%20Material/OOP%20Lab/04-FlowControl_SimpleClasses.pdf)
+1. [Classes, Objects, Arrays](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Books%20%2B%20Material/OOP%20Lab/05-Classes_Objects_Arrays.pdf) (Books + Material/OOP Lab/05-Classes_Objects_Arrays.pdf)
 2. [Head First Java - Chapters 2,3,4,5  (pdf pages 51-145)](http://it-ebooks.info/book/3214/) 
 3. [Java for Dummies - Part III + Chapter 10 (pages 137-247)](http://it-ebooks.info/book/777/)
 
 ## Play around with...
 1. [Exercises on Classes and Instances](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html) (first 14 exercises - `highly recommended`)
 
-## [Assignments](https://github.com/OOP-30221/OOP-2016/tree/master/Java/Content/Chapter%202%20-%20Classes%20and%20Objects/Assignments)
-- 2.1 - [Polynomials](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%202%20-%20Classes%20and%20Objects/Assignments/Assignment%202.1%20-%20Polynomials.pdf)
-- 2.2 - [Matrix operations library](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%202%20-%20Classes%20and%20Objects/Assignments/Assignment%202.2%20-%20Matrix%20operations%20library.pdf)
+## [Assignments](https://github.com/OOPCLASS2016/30425/tree/master/Resources/Content/Chapter%202%20-%20Classes%20and%20Objects/Assignments)
+- 2.1 - [Polynomials](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Content/Chapter%202%20-%20Classes%20and%20Objects/Assignments/Assignment%202.1%20-%20Polynomials.pdf)
+- 2.2 - [Matrix operations library](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Content/Chapter%202%20-%20Classes%20and%20Objects/Assignments/Assignment%202.2%20-%20Matrix%20operations%20library.pdf)

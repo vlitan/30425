@@ -13,7 +13,7 @@ We recommend you to finish the reading list and the given assignments in 1 week 
 
 
 ## Reading list
-1. [Exceptions](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Books%20%2B%20Material/OOP%20Lab/08-Exceptions.pdf)
+1. [Exceptions](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Books%20%2B%20Material/OOP%20Lab/08-Exceptions.pdf)
 2. [Head First Java - chapter 11  (pdf pages 335-367)](http://it-ebooks.info/book/3214/)
 
 ## Play around with...
@@ -21,5 +21,5 @@ We recommend you to finish the reading list and the given assignments in 1 week 
 2. [More Q&As on exceptions](http://www.indiabix.com/java-programming/exceptions/)
 
 
-## [Assignments](https://github.com/OOP-30221/OOP-2016/tree/master/Java/Content/Chapter%205%20-%20Exceptions/Assignments)
-- 5.1 - [Zoo (part 3)](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%205%20-%20Exceptions/Assignments/Zoo%20(part%203).pdf)
+## [Assignments](https://github.com/OOPCLASS2016/30425/tree/master/Resources/Content/Chapter%205%20-%20Exceptions/Assignments)
+- 5.1 - [Zoo (part 3)](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Content/Chapter%205%20-%20Exceptions/Assignments/Zoo%20(part%203).pdf)

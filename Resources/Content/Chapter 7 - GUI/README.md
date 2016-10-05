@@ -22,5 +22,5 @@ We recommend you to finish the reading list and the given assignments in 2 weeks
 2. Once you've mastered manually creating a GUI, check out [this](https://www.youtube.com/watch?v=oeswfZz4IW0) plugin and play around with it. 
 
 
-## [Assignments](https://github.com/OOP-30221/OOP-2016/tree/master/Java/Content/Chapter%207%20-%20GUI)
-- 7.1 - [Zoo (part 5)](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%207%20-%20GUI/Assignments/Zoo%20(part%205).pdf)
+## [Assignments](https://github.com/OOPCLASS2016/30425/tree/master/Resources/Content/Chapter%207%20-%20GUI)
+- 7.1 - [Zoo (part 5)](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Content/Chapter%207%20-%20GUI/Assignments/Zoo%20(part%205).pdf)

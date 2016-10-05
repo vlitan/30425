@@ -18,6 +18,6 @@ We recommend you to finish the reading list and the given assignments in 1 week 
 1. [Head First Java - chapter 16  (pdf pages 546-596)](http://it-ebooks.info/book/3214/)
 4. [Data Structures and Algorithms in Java](http://www.it-ebooks.info/book/4478/) (optional reading)
 
-## [Assignments](https://github.com/OOP-30221/OOP-2016/tree/master/Java/Content/Chapter%206%20-%20Collections%20and%20Generics/Assignments)
-- 6.1 - [Zoo (part 4)](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%206%20-%20Collections%20and%20Generics/Assignments/Zoo%20(part%204).pdf)
-- 6.2 - [Exercises from Washington univ.](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%206%20-%20Collections%20and%20Generics/Assignments/Washington%20univ.%20exercises.pdf)
+## [Assignments](https://github.com/OOPCLASS2016/30425/tree/master/Resources/Content/Chapter%206%20-%20Collections%20and%20Generics/Assignments)
+- 6.1 - [Zoo (part 4)](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Content/Chapter%206%20-%20Collections%20and%20Generics/Assignments/Zoo%20(part%204).pdf)
+- 6.2 - [Exercises from Washington univ.](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Content/Chapter%206%20-%20Collections%20and%20Generics/Assignments/Washington%20univ.%20exercises.pdf)

@@ -15,5 +15,5 @@ We recommend you to finish the reading list and the given assignments in 1 week 
 1. [Effective Java - chapter 10 (pdf pages 259-288)](http://it-ebooks.info/book/4285/)
 
 
-## [Assignments](https://github.com/OOP-30221/OOP-2016/tree/master/Java/Content/Chapter%208%20-%20Multithreading)
-- 8.1 - [Zoo (part 6)](https://github.com/OOP-30221/OOP-2016/blob/master/Java/Content/Chapter%208%20-%20Multithreading/Assignments/Zoo%20(part%206).pdf)
+## [Assignments](https://github.com/OOPCLASS2016/30425/tree/master/Resources/Content/Chapter%208%20-%20Multithreading)
+- 8.1 - [Zoo (part 6)](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Content/Chapter%208%20-%20Multithreading/Assignments/Zoo%20(part%206).pdf)
