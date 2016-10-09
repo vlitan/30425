@@ -15,7 +15,7 @@ We recommend you to finish the reading list and the given exercies in 2 weeks (`
 1. [Primitive Types, Simple IO](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Books%20%2B%20Material/OOP%20Lab/02-PrimitiveTypes_SimpleIO.pdf) (Books + Material/OOP Lab/02-PrimitiveTypes_SimpleIO.pdf)
 2. [Variables, Expressions](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Books%20%2B%20Material/OOP%20Lab/03-Variables_Expressions.pdf) (Books + Material/OOP Lab/03-Variables_Expressions.pdf)
 3. [Flow control](https://github.com/OOPCLASS2016/30425/blob/master/Resources/Books%20%2B%20Material/OOP%20Lab/04-FlowControl_SimpleClasses.pdf) (Books + Material/OOP Lab/04-FlowControl_SimpleClasses.pdf - up until and including chapter 3.2 but not further)
-4. [Java for Dummies - Part II](http://it-ebooks.info/book/777/) (pdf pages 61-136)
+4. [Java for Dummies - Part II](http://file.allitebooks.com/20150508/Java%20For%20Dummies,%205th%20Edition.pdf) (pdf pages 61-136)
 
 ## Play around with...
 1. [Some cute Java exercises for practising syntax](http://codingbat.com/java)
